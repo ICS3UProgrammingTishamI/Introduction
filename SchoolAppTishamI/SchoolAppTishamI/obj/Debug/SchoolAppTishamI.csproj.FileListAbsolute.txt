@@ -1,0 +1,10 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\SchoolAppTishamI\SchoolAppTishamI\bin\Debug\SchoolAppTishamI.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\SchoolAppTishamI\SchoolAppTishamI\bin\Debug\SchoolAppTishamI.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\SchoolAppTishamI\SchoolAppTishamI\bin\Debug\SchoolAppTishamI.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\SchoolAppTishamI\SchoolAppTishamI\obj\Debug\SchoolAppTishamI.csprojAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\SchoolAppTishamI\SchoolAppTishamI\obj\Debug\SchoolAppTishamI.frmSchoolApp.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\SchoolAppTishamI\SchoolAppTishamI\obj\Debug\SchoolAppTishamI.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\SchoolAppTishamI\SchoolAppTishamI\obj\Debug\SchoolAppTishamI.csproj.GenerateResource.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\SchoolAppTishamI\SchoolAppTishamI\obj\Debug\SchoolAppTishamI.csproj.CoreCompileInputs.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\SchoolAppTishamI\SchoolAppTishamI\obj\Debug\SchoolAppTishamI.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\SchoolAppTishamI\SchoolAppTishamI\obj\Debug\SchoolAppTishamI.pdb

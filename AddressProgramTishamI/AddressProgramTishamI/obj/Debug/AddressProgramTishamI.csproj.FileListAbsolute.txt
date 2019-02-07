@@ -1,0 +1,10 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\AddressProgramTishamI\AddressProgramTishamI\bin\Debug\AddressProgramTishamI.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\AddressProgramTishamI\AddressProgramTishamI\bin\Debug\AddressProgramTishamI.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\AddressProgramTishamI\AddressProgramTishamI\bin\Debug\AddressProgramTishamI.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\AddressProgramTishamI\AddressProgramTishamI\obj\Debug\AddressProgramTishamI.csprojAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\AddressProgramTishamI\AddressProgramTishamI\obj\Debug\AddressProgramTishamI.Form1.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\AddressProgramTishamI\AddressProgramTishamI\obj\Debug\AddressProgramTishamI.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\AddressProgramTishamI\AddressProgramTishamI\obj\Debug\AddressProgramTishamI.csproj.GenerateResource.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\AddressProgramTishamI\AddressProgramTishamI\obj\Debug\AddressProgramTishamI.csproj.CoreCompileInputs.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\AddressProgramTishamI\AddressProgramTishamI\obj\Debug\AddressProgramTishamI.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\AddressProgramTishamI\AddressProgramTishamI\obj\Debug\AddressProgramTishamI.pdb
