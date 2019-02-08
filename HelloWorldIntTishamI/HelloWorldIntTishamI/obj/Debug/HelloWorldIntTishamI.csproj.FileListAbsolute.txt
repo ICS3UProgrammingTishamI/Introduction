@@ -1,0 +1,10 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\HelloWorldIntTishamI\HelloWorldIntTishamI\obj\Debug\HelloWorldIntTishamI.csprojAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\HelloWorldIntTishamI\HelloWorldIntTishamI\obj\Debug\HelloWorldIntTishamI.frmHelloWorldInt.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\HelloWorldIntTishamI\HelloWorldIntTishamI\obj\Debug\HelloWorldIntTishamI.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\HelloWorldIntTishamI\HelloWorldIntTishamI\obj\Debug\HelloWorldIntTishamI.csproj.GenerateResource.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\HelloWorldIntTishamI\HelloWorldIntTishamI\obj\Debug\HelloWorldIntTishamI.csproj.CoreCompileInputs.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\HelloWorldIntTishamI\HelloWorldIntTishamI\bin\Debug\HelloWorldIntTishamI.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\HelloWorldIntTishamI\HelloWorldIntTishamI\bin\Debug\HelloWorldIntTishamI.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\HelloWorldIntTishamI\HelloWorldIntTishamI\bin\Debug\HelloWorldIntTishamI.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\HelloWorldIntTishamI\HelloWorldIntTishamI\obj\Debug\HelloWorldIntTishamI.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Islam, Tisham (s419015)\Introduction\HelloWorldIntTishamI\HelloWorldIntTishamI\obj\Debug\HelloWorldIntTishamI.pdb
