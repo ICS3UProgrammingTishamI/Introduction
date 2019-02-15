@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace AddressProgramTishamI
 {
-    public partial class Form1 : Form
+    public partial class AddressProgramForm : Form
     {
-        public Form1()
+        public AddressProgramForm()
         {
             InitializeComponent();
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

@@ -25,6 +25,7 @@ namespace HelloWorldIntTishamI
             InitializeComponent();
         }
 
+        //These all change the label to "Hello World" when the button is clicked on, but in differing languages. 
         private void radBangla_CheckedChanged(object sender, EventArgs e)
         {
             lblHelloWorldInt.Text = "ওহে বিশ্ব";
@@ -53,6 +54,11 @@ namespace HelloWorldIntTishamI
         private void radLatin_CheckedChanged(object sender, EventArgs e)
         {
             lblHelloWorldInt.Text = "Salve, Orbis Terrarum";
+        }
+
+        private void lblHelloWorldInt_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -25,6 +25,7 @@ namespace PerAreaVolTisham
             InitializeComponent();
         }
 
+        //These bits of code calculates the various parts of the program, and display the calculations once the button has been clicked on
         private void btnRectangle_Click(object sender, EventArgs e)
         {
             lblRectangleAnswer.Text = Convert.ToString((9 + 12) * 2) + "cm";
@@ -37,7 +38,7 @@ namespace PerAreaVolTisham
 
         private void btnSphere_Click(object sender, EventArgs e)
         {
-            lblSphereAnswer.Text = Convert.ToString(Math.PI * 4 / 3 * Math.Pow(42, 3)) + "km^3";
+            lblSphereAnswer.Text = Convert.ToString(Math.PI * (double)4 / (double)3 * Math.Pow(42, 3)) + "km^3";
         }
 
         private void btnTest_Click(object sender, EventArgs e)
