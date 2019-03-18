@@ -50,7 +50,6 @@
             this.lblHelloWorldInt.Size = new System.Drawing.Size(818, 93);
             this.lblHelloWorldInt.TabIndex = 0;
             this.lblHelloWorldInt.Text = "Hello World";
-            this.lblHelloWorldInt.Click += new System.EventHandler(this.lblHelloWorldInt_Click);
             // 
             // grbLanguages
             // 
